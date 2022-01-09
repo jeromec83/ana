@@ -676,7 +676,6 @@ section {
 
 .menu-bg {
 	background:#202020;
-	text-decoration :darkmagenta;
 }
 
 #main-menu ul {
@@ -694,7 +693,7 @@ section {
 	display: inline-block;
 	padding:6px 10px;
 	line-height: 60px;
-	color: rgb(0, 0, 0);
+	color: #FFF;
 	font-weight: 600;
 	font-size: 20px;
 	text-transform: uppercase;
@@ -772,7 +771,7 @@ section {
 .small {
     font-size: 25px;
     font-weight: 200;
-    color: rgb(2, 2, 2);
+    color: rgb(0, 0, 0);
     margin: 30px 0px 0px;
     text-transform: uppercase;
 	font-weight: 600;
