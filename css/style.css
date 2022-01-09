@@ -815,9 +815,9 @@ section {
 
 .slider-text-wrapper .btn {
 	margin-top: 60px;
-	border:2px solid #FFF;
+	border:2px solid rgb(3, 3, 3);
 	background:transparent;
-	color:#FFF;
+	color:rgb(3, 3, 3);
 }
 
 .flex-control-nav {
